@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "tobu_tori_",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T17:26:50.009407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "tobu_tori_",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/01_tobu_tori_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sora Wo Tobu Tori No You Ni No Wo Kakeru Kaze No You Ni",
+      "artist": "Chiharu Matsuyama",
+      "has_synced": false,
+      "path": "select/02_Sora_Wo_Tobu_Tori_No_You_Ni_No_Wo_Kakeru_Kaze_No_You_Ni_Chiharu_Matsuyama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tobu_tori_",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_tobu_tori_BaseBallBear.txt"
+    }
+  ]
+}
